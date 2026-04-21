@@ -1,6 +1,7 @@
 ---
 name: update-docs
 description: "Review recent edits and update all documentation including architecture docs, API specs, and edit history. Creates missing docs for new implementations."
+origin: molecule-skill-update-docs
 ---
 
 # Update Documentation
