@@ -6,6 +6,7 @@ tags: [molecule, guardrails, documentation]
 
 runtimes:
   - claude_code
+  - hermes
 
 skills:
   - update-docs
